@@ -1,20 +1,5 @@
 # Dokumentasi Tugas 2: Membuat Website Restoran dengan ReactJS
 
-## Nama Kelompok: Sak Karep
-
-## Anggota Kelompok:
-
-| Nama Anggota                 | NIM         | GitHub Username       | Tugas                                                                         |
-| ----------------------------- | ----------- | --------------------- | ----------------------------------------------------------------------------- |
-| Dava Ilham Muhammad          | L200220105 | @DavaIM105           |  FAQs, Navbar, Frontend Integration, API Function |
-| Fachrizal Irfansyah El Zacky | L200220117 | @L200220120Fachrizal |  Testimonials, Styling |
-| Dzaky Rayssa Buntoro         | L200220120 | @dzakyray|  Menu Section, API Testing |
-| Muhammad Kholis Affandi      | L200220134 | @|  Gallery Implementation |
-| Muhammad Yusuf Tri Daryanto  | L200220140 | @Muhayustrid |  Backend Django, Bug Fixes, Deployment|
-| Muhammad Ryan Ardiansyah     | L200220142 | @ryy142 |  Dokumentasi, Chefs, profil|
-
----
-
 ## Cara Menjalankan Website Restoran
 
 ### **Langkah 1: Setup dan Menjalankan Backend Server**
