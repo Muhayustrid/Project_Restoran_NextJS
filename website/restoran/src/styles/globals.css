@@ -1,0 +1,28 @@
+@import "../../public/assets/vendor/bootstrap/css/bootstrap.min.css";
+@import "../../public/assets/vendor/bootstrap-icons/bootstrap-icons.css";
+@import "../../public/assets/vendor/aos/aos.css";
+@import "../../public/assets/vendor/glightbox/css/glightbox.min.css";
+@import "../../public/assets/vendor/swiper/swiper-bundle.min.css";
+@import "../../public/assets/css/main.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
